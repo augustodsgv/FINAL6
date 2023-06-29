@@ -31,4 +31,4 @@ Este é um programa de mensagens e vídeos "intantâneo"
 # Autores
 [Augusto dos Santos Gomes Vaz](https://github.com/Augustodsgv)\
 [Guilherme José da Silva](https://github.com/GuiJoseh)\
-[Pedro Malandrin Klesse](https://github.com/Klesse)\
+[Pedro Malandrin Klesse](https://github.com/Klesse)
