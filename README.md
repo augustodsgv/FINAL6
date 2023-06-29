@@ -1,5 +1,6 @@
 # FINAL6
-Este é um programa de mensagens e vídeos "intantâneo"
+Este é um programa de mensagens e vídeos "intantâneo"\
+Este falha pode conter um programa
 
 # Como usar?
 ## Instalação
