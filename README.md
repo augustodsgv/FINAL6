@@ -29,6 +29,6 @@ Este é um programa de mensagens e vídeos "intantâneo"
 * Pra que? ele é perfeito
 
 # Autores
-Augusto dos Santos Gomes Vaz
-Guilherme José da Silva
-Pedro Malandrin Klesse
+Augusto dos Santos Gomes Vaz @Augustodsgv
+Guilherme José da Silva @GuiJoseh
+Pedro Malandrin Klesse @Klesse
