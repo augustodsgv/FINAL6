@@ -125,7 +125,7 @@ def bindMyPort():
 		MyIP = get_interface_ip('ham0')
 	except:
 		MyIP = gethostbyname(gethostname())
-		s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+		s = socket(AF_INET, SOCK_DGRAM)
 		s.connect(('10.0.0.0', 0))
 		print(s.getsockname()[0])
 	MyPort = str(MyIP)+':'+str(port)
