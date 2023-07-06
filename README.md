@@ -4,9 +4,16 @@ Este falha pode conter um programa
 
 # Como usar?
 ## Instalação
-* Verifique se seu python tem todas as bibliotecas
-* Conecte todas as máquinas num servidor local ou numa VPN
+### Instalando dependências
+* Esteja no diretório do programa
+* Execute o comando para o pip ```pip install -r requirements.txt```
+
+### Conectando as Máquinas à rede
+* Conecte todas as máquinas num servidor local ou numa VPN como o [Hamachi](https://vpn.net/)
+
+### Pronto
 * Agora é só rodar o programa
+* Após rodar o programa use ```deactivte``` para sair do envelope
 
 ## Iniciando o programa
 * Verifique se está na mesma pasta do arquivo
@@ -14,7 +21,7 @@ Este falha pode conter um programa
 * Aguarde a interface iniciar
 
 ## Adicionando pessoas
-* Obtenha o IP e porta do processo da outra máquina
+* Obtenha o IP e porta do processo da outra máquina (aparece no título da janela e no terminal)
 * Digite ```/ADD <IP:porta>``` na caixa de texto na parte inferior da interface
 * Agora basta apreciar o rostinho lindo de seu amiguinho
 
