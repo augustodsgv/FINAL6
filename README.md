@@ -1,12 +1,12 @@
-# FINAL6
+# Trabalho 1 de Sistemas Distribuídos
 Este é um programa de mensagens e vídeos "intantâneo"\
-Este falha pode conter um programa
+Desenvolvido na matéria de Sistemas Distribuídos
 
 # Como usar?
 ## Instalação
 ### Instalando dependências
 * Esteja no diretório do programa
-* Execute o comando para o pip ```pip install -r requirements.txt```
+* Execute o comando ```pip install -r requirements.txt```
 * Caso haja problema instalando o pyaudio ```sudo apt install portaudio19-dev python3-pyaudio```
 
 ### Conectando as Máquinas à rede
@@ -27,18 +27,20 @@ Este falha pode conter um programa
 * Agora basta apreciar o rostinho lindo de seu amiguinho
 
 ## Saindo da chamada
-* Basta digitar (ou não)```/LEFT``` na caixa de texto na parte inferior da interface
+* Basta digitar ```/LEFT``` na caixa de texto na parte inferior da interface
 * O programa irá fechar a chamada e finalizará
 
-## Listando pessoas na chamada
-* Digite ```/LIST_PEERS```
-* O programa irá listar todos os peers conectados na chamada
+# Decisões de projeto
+* Optamos por deixar uma interface gráfica para evitar que mensagens recebidas afetassem a escrita das mensagens\
+e para deixar o uso do programa mais amigável para o usuário
+* No projeto foram usados diversos sockets para o envio dos dados afim de evitar congestionamentos\
+no socket de envio
+* Deixamos o adição de novas pessoas na conversa via interface por meio do comando ```/ADD``` para que se possa\
+adicionar pessoas durante a execução do programa\
 
-# Desinstalando o programa
-* Pra que? ele é perfeito
 
 # Autores
 [Augusto dos Santos Gomes Vaz](https://github.com/Augustodsgv)\
 [Guilherme José da Silva](https://github.com/GuiJoseh)\
-[Pedro Malandrin Klesse](https://github.com/Klesse)
+[Pedro Malandrin Klesse](https://github.com/Klesse)\
 Yago Davi Pimenta
