@@ -366,9 +366,9 @@ print ('PID: '+str(pid))
 myPort = bindMyPort()
 print (f'minha porta e : {myPort}')
 Thread(target=video_sender).start()
-Thread(target=video_receiver).start()
+#Thread(target=video_receiver).start()
 Thread(target=audio_sender).start()
-Thread(target=audio_receiver).start()
+#Thread(target=audio_receiver).start()
 Thread(target=recebeMensagem).start()
 
 # Iniciando Threads de envio e recebimento de mensagens
