@@ -7,6 +7,7 @@ Este falha pode conter um programa
 ### Instalando dependências
 * Esteja no diretório do programa
 * Execute o comando para o pip ```pip install -r requirements.txt```
+* Caso haja problema instalando o pyaudio ```sudo apt install portaudio19-dev python3-pyaudio```
 
 ### Conectando as Máquinas à rede
 * Conecte todas as máquinas num servidor local ou numa VPN como o [Hamachi](https://vpn.net/)
