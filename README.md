@@ -41,3 +41,4 @@ Este falha pode conter um programa
 [Augusto dos Santos Gomes Vaz](https://github.com/Augustodsgv)\
 [Guilherme José da Silva](https://github.com/GuiJoseh)\
 [Pedro Malandrin Klesse](https://github.com/Klesse)
+Yago Davi Pimenta
