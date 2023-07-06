@@ -1,0 +1,9 @@
+cffi==1.15.1
+numpy==1.25.0
+opencv-python==4.8.0.74
+psutil==5.9.5
+PyAudio==0.2.13
+pycparser==2.21
+pyzmq==25.1.0
+sounddevice==0.4.6
+zmq==0.0.0
